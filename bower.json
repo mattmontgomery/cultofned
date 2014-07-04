@@ -1,0 +1,7 @@
+{
+    "name": "The Cult of Ned",
+    "dependencies": {
+        "jquery": "~2",
+        "foundation": ""
+    }
+}
